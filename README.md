@@ -1,1 +1,1 @@
-Json Execises to solve queries on the World Bank Projects dataset
+Queries to solve queries using the World Bank Projects Json data
